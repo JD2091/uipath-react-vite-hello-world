@@ -1,0 +1,8 @@
+{
+  "clientId": "YOUR_NON_CONFIDENTIAL_APP_CLIENT_ID",
+  "scope": "YOUR_SELECTED_UIPATH_SCOPES",
+  "orgName": "YOUR_ORGANIZATION_NAME",
+  "tenantName": "YOUR_TENANT_NAME",
+  "baseUrl": "https://api.uipath.com",
+  "redirectUri": "http://localhost:5173"
+}
